@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hey, I’m Jehan
 
-<!--
-**billyjei/billyjei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build things, mostly figuring it out as I go.
 
-Here are some ideas to get you started:
+Currently working on **Chatterbooth** — an anonymous social app where people can talk freely without judgement.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 What I’m Doing
+- Co-founder & COO (but honestly… wearing every hat)
+- Learning how to make products people actually *come back to*
+
+---
+
+## ⚡ What I Care About
+- Real conversations > curated personas  
+- Simple ideas that actually work  
+
+---
+
+## 📈 Current Focus
+ 
+- Expanding beyond Southeast Asia  
+
+---
+
+## 🤝 Open To
+- Talking about startups, growth, or random ideas  
+- People building in social / anonymous space  
+- Anyone who’s also just… figuring things out  
